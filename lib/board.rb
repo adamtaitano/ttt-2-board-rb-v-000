@@ -1,5 +1,6 @@
 # Define the variable board below.
-var board = [];
+board = [];
+
 9.times do
   board.push(" ");
 end
