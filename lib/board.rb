@@ -1,3 +1,3 @@
 # Define the variable board below.
 var board = [];
-9 times.do
+9.times do
